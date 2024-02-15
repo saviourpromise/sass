@@ -1,0 +1,1088 @@
+ @import url('https://fonts.googleapis.com/css2?family=Inter&family=Montserrat:wght@400;500;700&family=Mulish:wght@300;400;500;700&family=Orbitron:wght@400;500;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Inter;
+    /* border: 1px solid red; */
+}
+
+body{
+    background-color: #e9e3e3;
+}
+
+.toggle-button{
+    display: none;
+}
+
+.navbar{
+    display: flex;
+    gap: 10rem;
+}
+
+.ondo{
+    position: absolute;
+    top: 7%;
+    left: 84%;
+}
+
+.bxn{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.alx{
+    display: flex;
+    gap: 27rem;
+    padding-left: 6%;
+    padding-top: 3rem;
+}
+
+.pap{
+    width: 85%;
+}
+
+.buju{
+    display: flex;
+    gap: 24rem;
+    padding-left: 6%;
+    padding-top: 10%;
+}
+
+.clas{
+    position: relative;
+}
+
+.come{
+    position: absolute;
+    top: 17%;
+    left: 18%;
+}
+
+.von{
+    position: relative;
+}
+
+li{
+    list-style: none;
+}
+
+.tex{
+    background: inherit;
+    width: 18rem;
+    height: 3rem;
+    border-radius: 25px;
+    padding: 10px;
+    color: #ffffff;
+    border: 1px solid #A6A6A6;
+}
+
+.navbar-links ul{
+    display: flex;
+    gap: 3rem;
+    padding-top: 2%;
+}
+
+.brand-title{
+    font-size: 35px;
+    font-weight: 600;
+    color: #54BD95;
+}
+
+.brand-{
+    font-size: 35px;
+    font-weight: 600;
+    color: #54BD95;
+}
+
+.try{
+    background: #54BD95;
+    color: #fff;
+    width: 7rem;
+    height: 2.5rem;
+    border-radius: 20px;
+    border: none;
+}
+
+.enter{
+    font-size: 11px;
+    color: #A9A7B6;
+    font-weight: 600;
+}
+
+.jss{
+    position: absolute;
+    top: 35%;
+    left: -15%;
+}
+
+.cong{
+    position: absolute;
+    top: 6%;
+    left: 94%;
+}
+
+.veca{
+    position: absolute;
+    top: 38%;
+    left: 33%;
+}
+
+.class{
+    position: relative;
+}
+
+.group{
+    position: relative;
+}
+
+.cols{
+    display: flex;
+    padding-left: 3%;
+    padding-right: 2%;
+    padding-top: 13px;
+    padding-bottom: 10px;
+    background-color: #fff;
+    width: max-content;
+    border-radius: 10px;
+    position: absolute;
+    top: 6%;
+    left: -42%;
+}
+
+.bar-chart-2{
+    padding-top: 18%;
+}
+
+.pere{
+    display: flex;
+    gap: 15px;
+    background-color: #fff;
+    width: max-content;
+    border-radius: 10px;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    position: absolute;
+    top: 80%;
+    left: -14%;
+}
+
+.pera{
+    display: flex;
+    gap: 15px;
+    background-color: #fff;
+    width: max-content;
+    border-radius: 10px;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    position: absolute;
+    top: 25%;
+    left: 80%;
+}
+
+.off{
+    display: flex;
+    gap: 6rem;
+}
+
+.way{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.bright{
+    display: flex;
+    flex-direction: column;
+}
+
+.send{
+    background: #52BD94;
+    width: 4rem;
+    height: 1.5rem;
+    border-radius: 20px;
+    border: none;
+    color: #fff;
+    margin-top: 10%;
+}
+
+.flex{
+    position: absolute;
+    top: 96%;
+    left: 71%;
+}
+
+.dolls{
+    font-size: 17px;
+    font-weight: 600;
+}
+
+.message-square{
+    position: absolute;
+    top: 25%;
+    left: 20%;
+}
+
+.back{
+    position: relative;
+}
+
+.nnn{
+    color: #A6A6A6;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+position: absolute;
+top: 2px;
+left: 43%;
+}
+
+.black{
+    position: absolute;
+    top: 55%;
+    left: 73%;
+}
+
+.ool{
+    position: absolute;
+    left: 3px;
+    top: -7px;
+}
+
+.supp{
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.solo{
+    display: flex;
+}
+
+.aina{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.pub{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.khaid{
+    display: flex;
+    gap: 15rem;
+    padding-left: 6%;
+    background: #F9F8FE;
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+}
+
+.matta{
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+}
+
+.plan{
+    color: #A6A6A6;
+    font-size: 15px;
+    line-height: 20px;
+}
+
+.act{
+    position: absolute;
+    left: 30%;
+    top: 22%;
+}
+
+.box{
+    position: relative;
+}
+
+.meat{
+    display: flex;
+    flex-direction: column;
+    gap: 5rem;
+}
+
+.htm{
+    display: flex;
+    gap: 4rem;
+}
+
+.rcs{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.fraud{
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.brick{
+    color: #A6A6A6;
+    font-weight: 600;
+}
+
+.abad{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.saas{
+    color: #A6A6A6;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+}
+
+.gett{
+    width: 7rem;
+    height: 2.5rem;
+    border-radius: 70px;
+background: #54BD95;
+border: none;
+color: #fff;
+}
+
+.fish{
+    position: absolute;
+    top: 50%;
+    left: -17%;
+}
+
+.rrs{
+    position: relative;
+}
+
+.css{
+    position: absolute;
+    top: 26%;
+    left: 80%;
+}
+
+.aza{
+    position: absolute;
+    left: 23%;
+    top: 23%;
+}
+
+.slack{
+    position: absolute;
+    left: 10%;
+    top: 17%;
+}
+
+.bil{
+    font-size: 20px;
+    font-weight: 600;
+    position: absolute;
+    top: 32%;
+    left: 40%;
+}
+
+.oasis{
+    position: absolute;
+    top: 7%;
+    left: -30%;
+}
+
+.year{
+    width: 9rem;
+    height: 3.5rem;
+    font-weight: 600;
+    background: #54BD95;
+    border: none;
+    color: #fff;
+    border-radius: 10px;
+    position: absolute;
+    top: 14%;
+    left: 51.5%;
+}
+
+.eba{
+    display: flex;
+    padding-left: 6%;
+    gap: 22rem;
+}
+
+.biz{
+    width: 85%;
+}
+
+.flu{
+    display: flex;
+    gap: 1rem;
+}
+
+.eseme{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.alta{
+    display: flex;
+    padding-left: 8%;
+    padding-top: 3rem;
+    padding-bottom: 5rem;
+}
+
+footer{
+    background: #2b2b2b;
+    padding-top: 5rem;
+}
+
+.are{
+    color: #fff;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.acc{
+    color: #A6A6A6;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.lab{
+    width: 95%;
+}
+
+.aunt{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.john{
+    font-size: 16px;
+    font-weight: 600;
+    color: #A6A6A6;
+    text-align: center;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.gim{
+    font-size: 35px;
+    font-weight: 600;
+    text-align: center;
+    line-height: 40px;
+    padding-top: 6rem;
+}
+
+.expert{
+    font-size: 13px;
+    color: #A6A6A6;
+    font-weight: 600;
+    position: absolute;
+    top: 50%;
+    left: 30%;
+}
+
+.amanda{
+    font-size: 20px;
+    font-weight: 600;
+    position: absolute;
+    top: 20%;
+    left: 30%;
+}
+
+.dass{
+    position: relative;
+}
+
+.transfer{
+    color: #191A15;
+    position: absolute;
+    top: 35%;
+    left: 30%;
+}
+
+.nine{
+    position: absolute;
+    left: 23%;
+    top: 20%;
+}
+
+.tega{
+    position: relative;
+}
+
+.point{
+    position: absolute;
+    top: 87%;
+    left: -30%;
+}
+
+.vue{
+    position: absolute;
+    left: 15%;
+    top: 33%;
+}
+
+.number{
+    position: relative;
+}
+
+.verve{
+    display: flex;
+    padding-left: 6%;
+    gap: 15rem;
+    padding-top: 7rem;
+    padding-bottom: 6rem;
+}
+
+.cloud{
+    font-size: 21px;
+    font-weight: 600;
+    padding-top: 1rem;
+    padding-bottom: 10px;
+}
+
+.cloudd{
+    font-size: 21px;
+    font-weight: 600;
+    padding-top: 1rem;
+    padding-bottom: 10px;
+}
+
+.need{
+    color: #A6A6A6;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 20px;
+}
+
+.okon{
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+.mike{
+    position: relative;
+}
+
+.pipe{
+    width: 90%;
+}
+
+.day{
+    display: flex;
+    padding-left: 6%;
+    gap: 24rem;
+    padding-top: 6rem;
+}
+
+.fire{
+    font-size: 15px;
+    font-weight: 600;
+    padding-top: 6px;
+}
+
+.udeme{
+    display: flex;
+    gap: 1rem;
+}
+
+.benefit{
+    font-size: 32px;
+    font-weight: 600;
+    padding-bottom: 3rem;
+}
+
+.bob{
+    width: 75%;
+}
+
+.nno{
+    color: #A6A6A6;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.imag{
+    display: flex;
+    padding-left: 6%;
+    gap: 9rem;
+}
+
+.ftt{
+    font-size: 35px;
+    font-weight: 600;
+}
+
+.offer{
+    color: #A6A6A6;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 20px;
+}
+
+.section{
+    display: flex;
+    padding-left: 6%;
+    gap: 7rem;
+    padding-top: 5%;
+    padding-bottom: 5rem;
+}
+
+.taa{
+    position: absolute;
+    left: 24%;
+    top: 14%;
+}
+
+.ajeh{
+    display: flex;
+    gap: 1rem;
+}
+
+.elip{
+    position: relative;
+}
+
+.uni{
+    display: flex;
+    gap: 1rem;
+}
+
+.daddy{
+    display: flex;
+    gap: 1rem;
+}
+
+.dom{
+    display: flex;
+    gap: 1rem;
+}
+
+.love{
+    position: absolute;
+    left: 2.2px;
+    top: -6px;
+}
+
+.sch{
+    position: relative;
+    padding-left: 10px;
+}
+
+.cut{
+    display: flex;
+    gap: 1rem;
+}
+
+.Unsplash{
+    color: #A6A6A6;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.soja{
+    position: relative;
+}
+
+.hair{
+    padding-left: 12rem;
+}
+
+.more{
+    font-size: 35px;
+    font-weight: 700;
+    text-align: center;
+    padding-top: 7%;
+}
+
+.stk{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.all{
+    display: flex;
+    gap: 14rem;
+    padding-left: 6%;
+    padding-top: 4%;
+}
+
+.shy{
+    padding-top: 5px;
+}
+
+.data{
+    position: absolute;
+    top: 27%;
+    left: 27%;
+}
+
+.dart{
+    display: flex;
+    gap: 6rem;
+}
+
+.play-png{
+    width: 70%;
+}
+
+.play{
+    display: flex;
+    padding-top: 5px;
+    gap: 0px;
+}
+
+.lets{
+    font-size: 19px;
+    font-weight: 600;
+}
+
+.here{
+    font-size: 85px;
+    font-weight: 600;
+}
+
+a:hover{
+    color: black;
+}
+
+a{
+    text-decoration: none;
+    color: #A6A6A6;
+    font-weight: 600;
+    font-size: 14px;
+}
+
+header{
+    display: flex;
+    padding-left: 6%;
+    gap: 15rem;
+    padding-top: 2%;
+}
+
+.sign{
+    border-radius: 10px;
+    background: #54BD95;
+    color: #222;
+    width: 4rem;
+    font-weight: 600;
+    height: 2rem;
+    border: none;
+}
+
+.login{
+    border-radius: 10px;
+    background: inherit;
+    color: #222;
+    font-weight: 600;
+    width: 3rem;
+    height: 2rem;
+    border: none;
+}
+
+
+@media only screen and (max-width:600px){
+
+    header{
+        display: flex;
+        flex-direction: column;
+        gap: 1rem;
+    }
+
+    .cloud{
+        padding-left: 5rem;
+    }
+
+    .cloudd{
+        padding-left: 4rem;
+    }
+
+    .need{
+        padding-left: 3rem;
+    }
+
+    .flex{
+        left: 60%;
+        top: 101%;
+    }
+
+    .hair{
+        padding-left: 8rem;
+    }
+
+    .toggle-button{
+        display: block;
+        position: absolute;
+        left: 85%;
+        top: 2.8%;
+    }
+
+    .navbar{
+        display: flex;
+        flex-direction: column;
+        gap: 1rem;
+        align-items: flex-start;
+    }
+
+    .offer{
+        font-size: 14px;
+    }
+
+    .oasis{
+        left: -5%;
+    }
+
+    .day{
+        display: flex;
+        flex-direction: column;
+        gap: 5rem;
+    }
+
+    .imag{
+        display: flex;
+        flex-direction: column;
+        gap: 3rem;
+        padding-left: 2.5rem;
+    }
+
+    .uni{
+        gap: 1.6rem;
+        padding-left: 2px;
+    }
+
+    .daddy{
+        padding-left: 2px;
+    }
+
+    .dom{
+        gap: 1.6rem;
+    }
+
+    .meat{
+        gap: 1rem;
+    }
+
+    .ondo{
+        left: 66.4%;
+        top: 7.6%;
+    }
+
+    .pap{
+        width: 95%;
+    }
+
+    .saas{
+        font-size: 13px;
+    }
+
+    .supp{
+        font-size: 35px;
+    }
+
+    .section{
+        display: flex;
+        flex-direction: column;
+        gap: 3rem;
+        padding-left: 7.5rem;
+        padding-top: 5rem;
+    }
+
+    .more{
+        padding-top: 5rem;
+    }
+
+    .jss{
+        left: -4%;
+    }
+
+    .navbar-links ul{
+        gap: 1rem;
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .navbar-links.active{
+        display: flex;
+    }
+
+    .mainmenu{
+        height: auto;
+        overflow: hidden;
+        transition: 200ms height ease-in-out;
+    }
+
+    .navbar-links{
+        width: 100%;
+        display: none;
+    }
+
+    .navbar-links li{
+        text-align: center;
+    }
+
+    .bob{
+        width: 90%;
+    }
+
+    .point{
+        left: -5%;
+    }
+
+    .fish{
+        left: -5%;
+    }
+
+    .alta{
+        flex-direction: column;
+        padding-left: 14%;
+        padding-bottom: 2rem;
+    }
+
+    .acc{
+        font-size: 14px;
+    }
+
+    .year{
+        left: 55%;
+    }
+
+    .bil{
+        left: 19%;
+    }
+
+    .all{
+        display: flex;
+        flex-direction: column;
+        padding-left: 6%;
+        gap: 5rem;
+    }
+
+    .here{
+        font-size: 55px;
+    }
+
+    .pera{
+        left: 65%;
+        top: 40%;
+    }
+
+    .imoo{
+        width: 90%;
+    }
+
+    .khaid{
+        display: flex;
+        flex-direction: column;
+        gap: 6rem;
+    }
+
+    .lab{
+        width: 85%;
+    }
+
+    .verve{
+        display: flex;
+        flex-direction: column;
+        gap: 2rem;
+        padding-top: 4rem;
+        padding-bottom: 5rem;
+    }
+
+    .eba{
+        display: flex;
+        flex-direction: column;
+        padding-left: 2rem;
+        gap: 2rem;
+    }
+
+    .biz{
+        width: 90%;
+    }
+
+    .flu{
+        gap: 0.4rem;
+    }
+
+    .cols{
+        left: -3%;
+        top: 2%;
+    }
+
+    .pere{
+        left: -3%;
+        top: 76%;
+    }
+
+    .cong{
+        left: 76%;
+    }
+
+    .dart{
+        padding-left: 6%;
+        gap: 4rem;
+    }
+
+    .black{
+        left: 56%;
+        width: 40%;
+        top: 47%;
+    }
+
+    .buju{
+        display: flex;
+        flex-direction: column;
+        gap: 4rem;
+        padding-left: 2rem;
+    }
+
+    .wale{
+        width: 80%;
+        padding-left: 2rem;
+    }
+
+    .null{
+        width: 90%;
+        padding-left: 2.4rem;
+    }
+
+    .nul{
+        width: 80%;
+        padding-left: 4.3rem;
+    }
+
+    .alx{
+        display: flex;
+        flex-direction: column;
+        gap: 1rem;
+        padding-left: 0;
+    }
+}
+
+@media only screen and (max-width:415px){
+    .ondo{
+        left: 63.5%;
+    }
+
+    .need{
+        padding-left: 2.5rem;
+    }
+
+    .pap{
+        width: 97%;
+    }
+}
